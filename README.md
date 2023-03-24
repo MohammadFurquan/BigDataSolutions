@@ -1,2 +1,2 @@
 # BigDataSolutions
-This is a Demo Repository for Big Data Batch
+This is a Repository for the INeuron Assignments
